@@ -1,7 +1,5 @@
 body {
     display: flex;
-    width: 2480px;
-    height: 3508px;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -28,5 +26,5 @@ aside img {
 
 main {
     flex: 2;
-    width: 60%;
+    max-width: 60%;
 }
